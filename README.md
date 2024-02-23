@@ -1,19 +1,20 @@
 ![Header](./header.png)
 ### Hi :wave:
 
-This is Wen Long,  a second year Computer Science student at the National University of Singapore. I am currently learning AI and ML in school and is interested in learning more about LLMs in the coming weeks. I am also progressing towards becoming a full stack developer soon.
+I'm Wen Long,  a second year Computer Science student at the National University of Singapore. I am invested in learning AI and ML in school and is interested in learning more about LLMs in the coming weeks. I am progressing towards becoming a full stack developer.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
-# Knowledge Base
-#### Currently Levelling Up
+## Knowledge Base
+
+>#### Currently Levelling Up
 <p>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg width=30>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg width=30>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg width=30>
 </p>
 
-#### Software Engineering
+>#### Software Engineering
 <p>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg width=30>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg width=30>
@@ -28,7 +29,7 @@ This is Wen Long,  a second year Computer Science student at the National Univer
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg width=30>
 </p>
 
-#### ML & Data Analysis
+>#### ML & Data Analysis
 <p>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg width=30>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg width=30>
@@ -38,7 +39,7 @@ This is Wen Long,  a second year Computer Science student at the National Univer
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg width=30>
 </p>
 
-#### Databases
+>#### Databases
 <p>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg width=30>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg width=30>
@@ -47,27 +48,32 @@ This is Wen Long,  a second year Computer Science student at the National Univer
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg width=30>
 </p>
 
-#### IDEs & Text Editors
+>#### IDEs & Text Editors
 <p>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg width=30>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg width=30>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg width=30>
 </p>
 
-#### General Tools
+>#### General Tools
 <p>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg width=30>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg width=30>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg width=30>
 </p>
 
-#### Workflow
+>#### Workflow
 <p>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg width=30>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg width=30>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg width=30>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg width=30>
 </p>
+
+<!--
+### Stats
+![c-wenlong GitHub stats](https://github-readme-stats.vercel.app/api?username=c-wenlong&show_icons=true&theme=radical&border_radius=25&hide_rank=true&card_width=500)
+-->
 
 ## Contact Me
 <p>
@@ -78,3 +84,7 @@ This is Wen Long,  a second year Computer Science student at the National Univer
     <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg width=60>
   </a>
 </p>
+
+```
+Credits to @dhyeythumar for @devicons for the APIs and images.
+```

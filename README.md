@@ -1,16 +1,67 @@
-### Hi there 👋
+![Header](./header.png)
+### Hi :wave:
 
-<!--
-**c-wenlong/c-wenlong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is Wen Long,  a second year Computer Science student at the National University of Singapore. I am currently learning AI and ML in school and is interested in learning more about LLMs in the coming weeks. I am also progressing towards becoming a full stack developer soon.
 
-Here are some ideas to get you started:
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Knowledge Base
+#### Currently Levelling Up
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg width=30>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg width=30>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg width=30>
+
+#### Software Engineering
+<p>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg width=30>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg width=30>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg width=30>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg width=30>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg width=30>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg width=30>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg width=30>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg width=30>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg width=30>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg width=30>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg width=30>
+</p>
+
+#### ML & Data Analysis
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg width=30>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg width=30>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg width=30>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg width=30>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg width=30>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg width=30>
+
+#### Databases
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg width=30>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg width=30>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg width=30>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg width=30>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg width=30>
+
+#### IDEs & Text Editors
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg width=30>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg width=30>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg width=30>
+
+#### General Tools
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg width=30>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg width=30>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg width=30>
+
+#### Workflow
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg width=30>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg width=30>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg width=30>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg width=30>
+
+## Contact Me
+<a href="https://capyscript.super.site">
+<img src=https://github.com/c-wenlong/c-wenlong/assets/122634467/3180d991-0308-45b2-ba0e-73d14d9a7673 width=200 style="margin-right: 50px;">
+</a>
+<a href="https://www.linkedin.com/in/chen-wenlong-kai/">
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg width=200>
+</a>
+

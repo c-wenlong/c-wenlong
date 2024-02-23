@@ -81,7 +81,7 @@ I'm Wen Long,  a second year Computer Science student at the National University
     <img src=https://github.com/c-wenlong/c-wenlong/assets/122634467/3180d991-0308-45b2-ba0e-73d14d9a7673 width=60>
   </a>
   <a href="https://www.linkedin.com/in/chen-wenlong-kai/">
-    <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg width=60>
+    <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg width=60>
   </a>
 </p>
 

@@ -70,15 +70,11 @@ This is Wen Long,  a second year Computer Science student at the National Univer
 </p>
 
 ## Contact Me
-<div style="display: flex; align-items: center;">
-  <p>
-    <a href="https://capyscript.super.site">
-      <img src=https://github.com/c-wenlong/c-wenlong/assets/122634467/3180d991-0308-45b2-ba0e-73d14d9a7673 width=200>
-    </a>
-    <div style="display: inline-block; width: 50px;"></div>
-    <a href="https://www.linkedin.com/in/chen-wenlong-kai/">
-      <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg width=200>
-    </a>
-  </p>
-</div>
-
+<p>
+  <a href="https://capyscript.super.site">
+    <img src=https://github.com/c-wenlong/c-wenlong/assets/122634467/3180d991-0308-45b2-ba0e-73d14d9a7673 width=60>
+  </a>
+  <a href="https://www.linkedin.com/in/chen-wenlong-kai/">
+    <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg width=60>
+  </a>
+</p>

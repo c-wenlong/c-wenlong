@@ -79,3 +79,18 @@ This is Wen Long,  a second year Computer Science student at the National Univer
 </a>
 </p>
 
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/chen-wenlong-kai/">
+        <img src="https://github.com/c-wenlong/c-wenlong/assets/122634467/3180d991-0308-45b2-ba0e-73d14d9a7673" width="100">
+      </a>
+    </td>
+    <td style="width: 20px;"></td> <!-- Empty cell for spacing -->
+    <td>
+      <a href="https://www.linkedin.com/in/chen-wenlong-kai/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="100">
+      </a>
+    </td>
+  </tr>
+</table>

@@ -80,10 +80,10 @@ I'm Wen Long or Kai, a Junior at the National University of Singapore studying C
 ## Contact Me
 <p>
   <a href="https://capyscript.super.site">
-    <img src=https://github.com/c-wenlong/c-wenlong/assets/122634467/3180d991-0308-45b2-ba0e-73d14d9a7673 width=60>
+    <img src=https://github.com/c-wenlong/c-wenlong/assets/122634467/3180d991-0308-45b2-ba0e-73d14d9a7673 width=40>
   </a>
   <a href="https://www.linkedin.com/in/chen-wenlong-kai/">
-    <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg width=60>
+    <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg width=40>
   </a>
 </p>
 

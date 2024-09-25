@@ -1,7 +1,7 @@
 ![Header](./header.png)
 ### Hi :wave:
 
-I'm Wen Long,  a second year Computer Science student at the National University of Singapore. I am invested in learning AI and ML in school and is interested in learning more about LLMs in the coming weeks. I am progressing towards becoming a full stack developer.
+I'm Wen Long or Kai, a Junior at the National University of Singapore studying Computer Science. I am interested in full stack web and app development, UI/UX design and LLMs.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 

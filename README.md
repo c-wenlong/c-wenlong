@@ -9,17 +9,16 @@ I'm Wen Long or Kai, a Junior at the National University of Singapore studying C
 
 >#### Currently Levelling Up
 <p>
-  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg width=30>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg width=30>
-  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg width=30>
-    <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg width=30>
-      <img src=https://github.com/devicons/devicon/blob/v2.16.0/icons/nestjs/nestjs-original.svg width=30>
+  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg width=30>
+  <img src=https://github.com/devicons/devicon/blob/v2.16.0/icons/nestjs/nestjs-original.svg width=30>
 </p>
 
 >#### Software Engineering
 <p>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg width=30>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg width=30>
+  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg width=30>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg width=30>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg width=30>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg width=30>

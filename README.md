@@ -69,6 +69,7 @@ I'm Wen Long or Kai, a Junior at the National University of Singapore studying C
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg width=30>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg width=30>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg width=30>
+  <img src=https://github.com/devicons/devicon/blob/v2.16.0/icons/slack/slack-original.svg width=30>
 </p>
 
 <!--

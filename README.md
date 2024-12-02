@@ -14,7 +14,7 @@ I'm Wen Long or Kai, a Junior at the National University of Singapore studying C
   <img src=https://github.com/devicons/devicon/blob/v2.16.0/icons/nestjs/nestjs-original.svg width=30>
 </p>
 
->#### Software Engineering
+>#### Frontend
 <p>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg width=30>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg width=30>
@@ -22,6 +22,7 @@ I'm Wen Long or Kai, a Junior at the National University of Singapore studying C
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg width=30>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg width=30>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg width=30>
+  <img src=https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg width=30>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg width=30>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg width=30>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg width=30>
@@ -29,6 +30,10 @@ I'm Wen Long or Kai, a Junior at the National University of Singapore studying C
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg width=30>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg width=30>
 </p>
+
+>#### Backend
+
+
 
 >#### ML & Data Analysis
 <p>
@@ -47,6 +52,9 @@ I'm Wen Long or Kai, a Junior at the National University of Singapore studying C
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg width=30>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg width=30>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg width=30>
+  <img src=https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg width=30>
+  <img src=https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg width=30>
+  <img src=https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original.svg width=30>
 </p>
 
 >#### IDEs & Text Editors
@@ -54,6 +62,7 @@ I'm Wen Long or Kai, a Junior at the National University of Singapore studying C
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg width=30>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg width=30>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg width=30>
+    <img src=https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg width=30>
 </p>
 
 >#### General Tools

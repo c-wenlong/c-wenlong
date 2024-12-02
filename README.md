@@ -16,24 +16,22 @@ I'm Wen Long or Kai, a Junior at the National University of Singapore studying C
 
 >#### Frontend
 <p>
-  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg width=30>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg width=30>
+  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg width=30>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg width=30>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg width=30>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg width=30>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg width=30>
   <img src=https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg width=30>
-  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg width=30>
-  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg width=30>
-  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg width=30>
-  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg width=30>
-  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg width=30>
-  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg width=30>
 </p>
 
 >#### Backend
-
-
+<p>
+  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg width=30>
+  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg width=30>
+  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg width=30>
+  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg width=30>
+</p>
 
 >#### ML & Data Analysis
 <p>
@@ -62,7 +60,7 @@ I'm Wen Long or Kai, a Junior at the National University of Singapore studying C
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg width=30>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg width=30>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg width=30>
-    <img src=https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg width=30>
+  <img src=https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg width=30>
 </p>
 
 >#### General Tools
